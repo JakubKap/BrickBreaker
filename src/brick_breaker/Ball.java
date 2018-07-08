@@ -1,5 +1,4 @@
 package brick_breaker;
-
 	/**
 	 * Klasa Ball reprezentuj¹ca okr¹g 
 	 * (w kontekœcie gry czerwon¹ pi³kê za pomoc¹ której zbija siê bloczki). 
